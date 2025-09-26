@@ -1,7 +1,6 @@
---- 
-title: "Thomas' Notes"  
 ---
-
+title: Overview
+---
 Hi, this is my Obsidian page.
 
-All about [[PHP]].
+All about [[PHP/index/|PHP]].
