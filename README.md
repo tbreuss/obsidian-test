@@ -6,7 +6,7 @@
 
 ## Obsidian to Cosma
 
-Edit the markdown files with frontmatter for types.
+Edit the markdown files with frontmatter for tags and types.
 
 Convert Obsidian vault toward Cosma
 
